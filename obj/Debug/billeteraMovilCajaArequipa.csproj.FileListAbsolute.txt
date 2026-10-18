@@ -1,0 +1,7 @@
+C:\Users\MAURO\Downloads\Proyecto Estructura de datos\billeteraMovilCajaArequipa\billeteraMovilCajaArequipa\bin\Debug\billeteraMovilCajaArequipa.exe.config
+C:\Users\MAURO\Downloads\Proyecto Estructura de datos\billeteraMovilCajaArequipa\billeteraMovilCajaArequipa\bin\Debug\billeteraMovilCajaArequipa.exe
+C:\Users\MAURO\Downloads\Proyecto Estructura de datos\billeteraMovilCajaArequipa\billeteraMovilCajaArequipa\bin\Debug\billeteraMovilCajaArequipa.pdb
+C:\Users\MAURO\Downloads\Proyecto Estructura de datos\billeteraMovilCajaArequipa\billeteraMovilCajaArequipa\obj\Debug\billeteraMovilCajaArequipa.csproj.AssemblyReference.cache
+C:\Users\MAURO\Downloads\Proyecto Estructura de datos\billeteraMovilCajaArequipa\billeteraMovilCajaArequipa\obj\Debug\billeteraMovilCajaArequipa.csproj.CoreCompileInputs.cache
+C:\Users\MAURO\Downloads\Proyecto Estructura de datos\billeteraMovilCajaArequipa\billeteraMovilCajaArequipa\obj\Debug\billeteraMovilCajaArequipa.exe
+C:\Users\MAURO\Downloads\Proyecto Estructura de datos\billeteraMovilCajaArequipa\billeteraMovilCajaArequipa\obj\Debug\billeteraMovilCajaArequipa.pdb
